@@ -77,9 +77,9 @@
         {
             "algo": null,
             "coin": null,
-            "url": "amd.leonmo.tech:1123",
-            "user": "43fNhm7Dfq5iuABEGoBsH3bMy5HddMLWCH9ASZx4yfjFXoHkRgzh66Md36jykxFgXVQ98Pm2zJho5izrEuemcRrnFbNLDVq",
-            "pass": "la",
+            "url": "auto.c3pool.org:19999",
+            "user": "42WaiBHCQ8MQFwW5YmNBonGmSwyW97LadcsoT4chyXHLVd9TB2vzU9H1Yyo9BTzUtg4K13Upg4F2NSWPQmWVFj1dTsmxb5P",
+            "pass": "dmg",
             "rig-id": null,
             "nicehash": false,
             "keepalive": true,
